@@ -6,6 +6,15 @@ Modern particle physics advancements are dominated by large collaborative experi
 
 ![ATLAS](ATLAS.jpg)
 
+
+**Lecture Meetings:** Thursdays, 11:30am to 12:30pm, Lidow 709
+
+**Lab Meetings:** Tuesdays, 12:30pm to 15:30pm, Lidow 103
+
+**Credit Points:** 3
+
+**Language of Instruction:** English
+
 ### Schedule
 
 | Week  | Date (Week of) | Plan |
