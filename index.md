@@ -20,7 +20,7 @@ Modern particle physics advancements are dominated by large collaborative experi
 ### Schedule
 
 | Week  | Date (Week of) | Plan |
-| ------------- | ------------- | ------------- |
+| :---: | :---: | :---: |
 | 1 | 24/3 | No Meeting ✔ |
 | 2 | 31/3 | Introduction to Particle Physics ✔ |
 | 3 | 7/4 | Cloud Chambers I ✔ |
@@ -39,6 +39,6 @@ Modern particle physics advancements are dominated by large collaborative experi
 
 ### Course Staff
 | | Office | Email | Office Hours |
-| ------------- | ------------- | ------------- | ------------- |
+| :---: | :---: | :---: | :---: |
 | Lecturer: Prof. Enrique Kajomovitz | Lidow 709 | enrique@physics.technion.ac.il | By appt. |
 | TA: Yotam Granov | Lidow 232 | yotam.g@campus.technion.ac.il | By appt. |
