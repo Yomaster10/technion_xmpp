@@ -6,6 +6,26 @@ Modern particle physics advancements are dominated by large collaborative experi
 
 ![ATLAS](ATLAS.jpg)
 
+### Schedule
+
+| Week  | Date (Week of) | Plan |
+| ------------- | ------------- | ------------- |
+| 1 | 24/3 | No Meeting ✔ |
+| 2 | 31/3 | Introduction to Particle Physics ✔ |
+| 3 | 7/4 | Cloud Chambers I ✔ |
+| 4 | 14/4 | Cloud Chambers II ✔ |
+| 5 | 21/4 | No Meeting (Passover) ✔ |
+| 6 | 28/4 | No Meeting ✔ |
+| 7 | 5/5 | No Meeting ✔ |
+| 8 | 12/5 | Cloud Chambers III ✔ |
+| 9 | 19/5 | Photon Detectors & Mechatronics ✔ |
+| 10 | 26/5 | Scintillators I ✔ |
+| 11 | 2/6 | Scintillators II / Cloud Chambers IV |
+| 12 | 9/6 | Trigger Systems I |
+| 13 | 16/6 | Trigger Systems II |
+| 14 | 23/6 | Cosmic Hodoscopes I |
+| 15 | 30/6 | Cosmic Hodoscopes II |
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
