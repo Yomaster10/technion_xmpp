@@ -1,6 +1,6 @@
-# Experimental Methods in Particle Physics (XMPP) - 114250
+# Experimental Methods in Particle Physics - 114250
 
-## Course Info
+### Course Info
 
 ___
 
@@ -8,8 +8,10 @@ Modern particle physics advancements are dominated by large collaborative experi
 
 ![ATLAS](ATLAS.jpg)
 
-## Logistics
- 
+### Logistics
+
+___
+
 **Course Number:** 114250
 
 **Credit Points:** 3
@@ -20,7 +22,10 @@ Modern particle physics advancements are dominated by large collaborative experi
 
 **Lab Meetings:** Tuesdays, 12:30pm to 15:30pm, Lidow 103
 
-## Schedule
+### Schedule
+
+___
+
 
 | Week  | Date (Week of) | Plan |
 | :---: | :---: | :---: |
@@ -40,8 +45,11 @@ Modern particle physics advancements are dominated by large collaborative experi
 | 14 | 23/6 | Cosmic Hodoscopes I |
 | 15 | 30/6 | Cosmic Hodoscopes II |
 
-## Course Staff
+### Course Staff
+
+___
+
 | Staff Member | Office | Email | Office Hours |
 | :---: | :---: | :---: | :---: |
-| Lecturer: Prof. Enrique Kajomovitz | Lidow 709 | enrique@physics.technion.ac.il | By appt. |
-| TA: Yotam Granov | Lidow 232 | yotam.g@campus.technion.ac.il | By appt. |
+| Lecturer - Prof. Enrique Kajomovitz | Lidow 709 | enrique@physics.technion.ac.il | By appt. |
+| TA - Yotam Granov | Lidow 232 | yotam.g@campus.technion.ac.il | By appt. |
