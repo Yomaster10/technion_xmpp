@@ -54,6 +54,12 @@ ___
 | Lecturer - Prof. Enrique Kajomovitz | Lidow 709 | enrique@physics.technion.ac.il | By appt. |
 | TA - Yotam Granov | Lidow 232 | yotam.g@campus.technion.ac.il | By appt. |
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is not maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
