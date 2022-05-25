@@ -36,3 +36,9 @@ Modern particle physics advancements are dominated by large collaborative experi
 | 13 | 16/6 | Trigger Systems II |
 | 14 | 23/6 | Cosmic Hodoscopes I |
 | 15 | 30/6 | Cosmic Hodoscopes II |
+
+### Course Staff
+| | Office | Email | Office Hours |
+| ------------- | ------------- | ------------- | ------------- |
+| Lecturer: Prof. Enrique Kajomovitz | Lidow 709 | enrique@physics.technion.ac.il | By appt. |
+| TA: Yotam Granov | Lidow 232 | yotam.g@campus.technion.ac.il | By appt. |
