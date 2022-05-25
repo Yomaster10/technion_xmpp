@@ -2,6 +2,8 @@
 
 ## Course Info
 
+___
+
 Modern particle physics advancements are dominated by large collaborative experiments such as those at CERN, where cutting-edge particle detection technologies allow us to peer into the fabric of our universe deeper than ever before. In this course we will explore a variety of these technologies, such as cloud chambers and scintillators, with which we achieved significant progress in our understanding of particle physics in the past and even today. We will explore the physical mechanisms behind particle detection, and attempt to build a selection of small-scale particle detectors with the aim of deepening our understanding of particle physics and hopefully even performing basic data acquisition and analysis.
 
 ![ATLAS](ATLAS.jpg)
