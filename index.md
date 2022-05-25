@@ -1,4 +1,4 @@
-## Experimental Methods in Particle Physics - 114250
+## Experimental Methods in Particle Physics (XMPP) - 114250
 
 ### Course Info
 
